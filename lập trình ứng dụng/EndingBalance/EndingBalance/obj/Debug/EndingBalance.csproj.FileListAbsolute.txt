@@ -1,0 +1,25 @@
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\obj\Debug\EndingBalance.csproj.AssemblyReference.cache
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\obj\Debug\EndingBalance.csproj.SuggestedBindingRedirects.cache
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\obj\Debug\EndingBalance.Form1.resources
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\obj\Debug\EndingBalance.Properties.Resources.resources
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\obj\Debug\EndingBalance.csproj.GenerateResource.cache
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\obj\Debug\EndingBalance.csproj.CoreCompileInputs.cache
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\bin\Debug\EndingBalance.exe.config
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\bin\Debug\EndingBalance.exe
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\bin\Debug\EndingBalance.pdb
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\obj\Debug\EndingBalance.exe
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\obj\Debug\EndingBalance.pdb
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\obj\Debug\EndingBalance.Form2.resources
+C:\Users\admin\Desktop\lập trình ứng dụng\EndingBalance\EndingBalance\bin\Debug\EndingBalance.exe.config
+C:\Users\admin\Desktop\lập trình ứng dụng\EndingBalance\EndingBalance\bin\Debug\EndingBalance.exe
+C:\Users\admin\Desktop\lập trình ứng dụng\EndingBalance\EndingBalance\bin\Debug\EndingBalance.pdb
+C:\Users\admin\Desktop\lập trình ứng dụng\EndingBalance\EndingBalance\obj\Debug\EndingBalance.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\lập trình ứng dụng\EndingBalance\EndingBalance\obj\Debug\EndingBalance.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\lập trình ứng dụng\EndingBalance\EndingBalance\obj\Debug\EndingBalance.Form2.resources
+C:\Users\admin\Desktop\lập trình ứng dụng\EndingBalance\EndingBalance\obj\Debug\EndingBalance.Form1.resources
+C:\Users\admin\Desktop\lập trình ứng dụng\EndingBalance\EndingBalance\obj\Debug\EndingBalance.Form3.resources
+C:\Users\admin\Desktop\lập trình ứng dụng\EndingBalance\EndingBalance\obj\Debug\EndingBalance.Properties.Resources.resources
+C:\Users\admin\Desktop\lập trình ứng dụng\EndingBalance\EndingBalance\obj\Debug\EndingBalance.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\lập trình ứng dụng\EndingBalance\EndingBalance\obj\Debug\EndingBalance.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\lập trình ứng dụng\EndingBalance\EndingBalance\obj\Debug\EndingBalance.exe
+C:\Users\admin\Desktop\lập trình ứng dụng\EndingBalance\EndingBalance\obj\Debug\EndingBalance.pdb

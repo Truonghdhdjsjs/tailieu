@@ -1,0 +1,11 @@
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\bin\asd\EndingBalance.exe.config
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\bin\asd\EndingBalance.exe
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\obj\asd\EndingBalance.csproj.AssemblyReference.cache
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\obj\asd\EndingBalance.csproj.SuggestedBindingRedirects.cache
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\obj\asd\EndingBalance.Form2.resources
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\obj\asd\EndingBalance.Form1.resources
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\obj\asd\EndingBalance.Properties.Resources.resources
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\obj\asd\EndingBalance.csproj.GenerateResource.cache
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\obj\asd\EndingBalance.csproj.CoreCompileInputs.cache
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\obj\asd\EndingBalance.exe
+C:\Users\ttuan\source\repos\EndingBalance\EndingBalance\obj\asd\EndingBalance.Form3.resources
