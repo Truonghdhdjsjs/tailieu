@@ -1,0 +1,41 @@
+D:\thietkephanmem\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\bin\Debug\Nguyenhoangvu_baibaocao.exe.config
+D:\thietkephanmem\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\bin\Debug\Nguyenhoangvu_baibaocao.exe
+D:\thietkephanmem\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\bin\Debug\Nguyenhoangvu_baibaocao.pdb
+D:\thietkephanmem\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.csproj.AssemblyReference.cache
+D:\thietkephanmem\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.csproj.SuggestedBindingRedirects.cache
+D:\thietkephanmem\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.Form1.resources
+D:\thietkephanmem\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.Properties.Resources.resources
+D:\thietkephanmem\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.csproj.GenerateResource.cache
+D:\thietkephanmem\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.csproj.CoreCompileInputs.cache
+D:\thietkephanmem\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.exe
+D:\thietkephanmem\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.pdb
+D:\thietkephanmem\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.dangnhap.resources
+D:\thietkephanmem\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.Form.resources
+D:\thietkephanmem\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.nhanvien.resources
+D:\thietkephanmem\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.chitietdathang.resources
+D:\thietkephanmem\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.loaihang.resources
+D:\thietkephanmem\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.dondathang.resources
+D:\thietkephanmem\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.khachhang.resources
+D:\thietkephanmem\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.nhacungcap.resources
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\bin\Debug\Nguyenhoangvu_baibaocao.exe.config
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\bin\Debug\Nguyenhoangvu_baibaocao.exe
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\bin\Debug\Nguyenhoangvu_baibaocao.pdb
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.csproj.AssemblyReference.cache
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.csproj.SuggestedBindingRedirects.cache
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.chitietdathang.resources
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.dangnhap.resources
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.dondathang.resources
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.Form1.resources
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.khachhang.resources
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.loaihang.resources
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.Form.resources
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.nhacungcap.resources
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.nhanvien.resources
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.Properties.Resources.resources
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.csproj.GenerateResource.cache
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.csproj.CoreCompileInputs.cache
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.exe
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Nguyenhoangvu_baibaocao.pdb
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Menu.Tk1.resources
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Menu.Tk2.resources
+E:\Dự Án\Nguyenhoangvu_baibaocao\Nguyenhoangvu_baibaocao\obj\Debug\Menu.Tk3.resources
